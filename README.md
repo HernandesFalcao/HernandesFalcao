@@ -49,16 +49,7 @@ Programação é o que me inspira. Desenvolver soluções e sanar a dor do clien
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HernandesFalcao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernandesFalcao&layout=compact&theme=dark"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=HernandesFalcao&theme=dark&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HernandesFalcao&theme=darkhub&row=1&no-frame=true&margin-w=10"/>
 </div>
 
 ---
