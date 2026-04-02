@@ -12,7 +12,7 @@
 
 Programação é o que me inspira. Desenvolver soluções e sanar a dor do cliente é o que me impulsiona a melhorar minhas habilidades técnicas e pessoais.
 
-- 🔭 Atuando como **Tech Lead na [Kruzer](https://www.kruzer.com.br/)**, levando decisões técnicas e de negócio em projetos enterprise de alto volume — com IA.
+- 🔭 Atuando como **Tech Lead na [Kruzer](https://www.kruzer.ai/)**, levando decisões técnicas e de negócio em projetos enterprise de alto volume — com IA.
 - 🌱 Estudando: **arquitetura de microsserviços e IA aplicada ao desenvolvimento**.
 - ⚡ No tempo livre, construo soluções automatizadas, leio artigos de tecnologia e jogo video-games.
 
