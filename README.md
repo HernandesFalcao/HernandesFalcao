@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=Tech+Lead+%40+Kruzer;Angular+%7C+Node.js+%7C+TypeScript;De+linhas+de+c%C3%B3digo+a+decis%C3%B5es+de+neg%C3%B3cio+%E2%80%94+com+IA)
 
-![Visitors](https://komarev.com/ghpvc/?username=HernandesFalcao&color=blue&style=flat-square)
-
 </div>
 
 ---
