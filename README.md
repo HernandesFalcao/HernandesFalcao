@@ -1,10 +1,19 @@
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Full+Stack+Developer;Angular+%7C+Node.js+%7C+TypeScript;Software+Developer+%40+Kruzer)
+
+![Visitors](https://komarev.com/ghpvc/?username=HernandesFalcao&color=blue&style=flat-square)
+
+</div>
+
 ## ❗ About me
 
 Programação é o que me inspira. Desenvolver soluções e sanar a dor do cliente é o que me impulsiona a melhorar minhas habilidades técnicas e pessoais.
 
-- :telescope: Atualmente trabalhando como **Software Developer na [Kruzer](https://www.kruzer.com.br/)**, contribuindo com frontend, backend e DevOps em projetos enterprise de alto volume.
-- :seedling: Explorando o mundo de Technical Content Writing e criação de conteúdo.
-- :zap: No tempo livre, construo soluções automatizadas para problemas do dia a dia, leio artigos de tecnologia e jogo video-games.
+- :telescope: Trabalhando como **Software Developer na [Kruzer](https://www.kruzer.com.br/)**, contribuindo com frontend, backend e DevOps em projetos enterprise de alto volume.
+- :seedling: Estudando: **arquitetura de microsserviços e IA aplicada ao desenvolvimento**.
+- :bulb: Me pergunte sobre: **Angular, Node.js, TypeScript e integrações**.
+- :zap: No tempo livre, construo soluções automatizadas, leio artigos de tecnologia e jogo video-games.
 
 ## :hammer_and_wrench: Languages and Tools
 
@@ -43,11 +52,17 @@ Programação é o que me inspira. Desenvolver soluções e sanar a dor do clien
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernandesFalcao&layout=compact&theme=dark"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HernandesFalcao&theme=dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HernandesFalcao&theme=darkhub&row=1&no-frame=true&margin-w=10"/>
+</div>
+
 ## :mortar_board: Certifications
 
 - **Lean Six Sigma White Belt** — FM2S Educação e Consultoria (2023)
-- **SDI Fundamentals** — Semantix (2023)
-- **SDP Fundamentals** — Semantix (2023)
 
 ## :globe_with_meridians: Social Media
 
