@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Full+Stack+Developer;Angular+%7C+Node.js+%7C+TypeScript;Software+Developer+%40+Kruzer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=600&lines=Tech+Lead+%40+Kruzer;Angular+%7C+Node.js+%7C+TypeScript;De+linhas+de+c%C3%B3digo+a+decis%C3%B5es+de+neg%C3%B3cio+%E2%80%94+com+IA)
 
 ![Visitors](https://komarev.com/ghpvc/?username=HernandesFalcao&color=blue&style=flat-square)
 
@@ -10,7 +10,7 @@
 
 Programação é o que me inspira. Desenvolver soluções e sanar a dor do cliente é o que me impulsiona a melhorar minhas habilidades técnicas e pessoais.
 
-- :telescope: Trabalhando como **Software Developer na [Kruzer](https://www.kruzer.com.br/)**, contribuindo com frontend, backend e DevOps em projetos enterprise de alto volume.
+- :telescope: Atuando como **Tech Lead na [Kruzer](https://www.kruzer.com.br/)**, levando decisões técnicas e de negócio em projetos enterprise de alto volume — com IA.
 - :seedling: Estudando: **arquitetura de microsserviços e IA aplicada ao desenvolvimento**.
 - :bulb: Me pergunte sobre: **Angular, Node.js, TypeScript e integrações**.
 - :zap: No tempo livre, construo soluções automatizadas, leio artigos de tecnologia e jogo video-games.
