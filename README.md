@@ -14,7 +14,6 @@ Programação é o que me inspira. Desenvolver soluções e sanar a dor do clien
 
 - 🔭 Atuando como **Tech Lead na [Kruzer](https://www.kruzer.com.br/)**, levando decisões técnicas e de negócio em projetos enterprise de alto volume — com IA.
 - 🌱 Estudando: **arquitetura de microsserviços e IA aplicada ao desenvolvimento**.
-- 💬 Me pergunte sobre: **Angular, Node.js, TypeScript e integrações**.
 - ⚡ No tempo livre, construo soluções automatizadas, leio artigos de tecnologia e jogo video-games.
 
 ---
@@ -82,5 +81,3 @@ Programação é o que me inspira. Desenvolver soluções e sanar a dor do clien
 </div>
 
 <br/>
-
-<a href="https://app.daily.dev/hernandes_falcao"><img src="https://api.daily.dev/devcards/6aed4daf58e04c3cb9bdeb934a734b03.png?r=7ro" width="400" alt="Hernandes Falcão's Dev Card"/></a>
