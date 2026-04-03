@@ -46,8 +46,6 @@ Programação é o que me inspira. Desenvolver soluções e sanar a dor do clien
 ## :mortar_board: Certifications
 
 - **Lean Six Sigma White Belt** — FM2S Educação e Consultoria (2023)
-- **SDI Fundamentals** — Semantix (2023)
-- **SDP Fundamentals** — Semantix (2023)
 
 ## :globe_with_meridians: Social Media
 
