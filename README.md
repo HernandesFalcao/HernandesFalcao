@@ -6,12 +6,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=580&lines=hernandes%40kruzer%3A~%24+whoami;Tech+Lead+%40+Kruzer;Microservices+%2B+AI+in+Production;Turning+ideas+into+scalable+solutions.;Building+things+that+matter.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=580&lines=hernandes%40kruzer%3A~%24+whoami;Tech+Lead+%40+Kruzer;Microservices+%2B+AI+in+Production;Turning+ideas+into+scalable+solutions.;Building+things+that+matter.)](https://github.com/HernandesFalcao)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hernandes-falcao)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@HernandesFalcao)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@falconcoding)
 [![GitHub followers](https://img.shields.io/github/followers/HernandesFalcao?style=for-the-badge&color=6366f1&labelColor=0d1117&label=Followers)](https://github.com/HernandesFalcao)
 [![Profile Views](https://komarev.com/ghpvc/?username=HernandesFalcao&color=6366f1&style=for-the-badge&label=Profile+Views)](https://github.com/HernandesFalcao)
 
@@ -92,7 +92,7 @@ philosophy : "Código resolve dor real. Programação é o que me inspira."
 
 <div align="center">
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HernandesFalcao&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HernandesFalcao&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/HernandesFalcao)
 
 <br/>
 
@@ -105,7 +105,7 @@ philosophy : "Código resolve dor real. Programação é o que me inspira."
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HernandesFalcao&theme=dark&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=22d3ee&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=4b5563&currStreakNum=818cf8&sideNums=818cf8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HernandesFalcao&theme=dark&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=22d3ee&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=4b5563&currStreakNum=818cf8&sideNums=818cf8)](https://github.com/HernandesFalcao)
 
 </div>
 
