@@ -11,7 +11,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hernandes-falcao)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@HernandesFalcao)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@falconcoding)
 [![GitHub followers](https://img.shields.io/github/followers/HernandesFalcao?style=for-the-badge&color=6366f1&labelColor=0d1117&label=Followers)](https://github.com/HernandesFalcao)
 [![Profile Views](https://komarev.com/ghpvc/?username=HernandesFalcao&color=6366f1&style=for-the-badge&label=Profile+Views)](https://github.com/HernandesFalcao)
 
