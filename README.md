@@ -88,29 +88,6 @@ philosophy : "Código resolve dor real. Programação é o que me inspira."
 
 ---
 
-## `$ cat stats.json`
-
-<div align="center">
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HernandesFalcao&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/HernandesFalcao)
-
-<br/>
-
-<a href="https://github.com/HernandesFalcao">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HernandesFalcao&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=22d3ee&text_color=94a3b8&ring_color=6366f1&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/HernandesFalcao">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HernandesFalcao&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&langs_count=6" />
-</a>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HernandesFalcao&theme=dark&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=22d3ee&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=4b5563&currStreakNum=818cf8&sideNums=818cf8)](https://github.com/HernandesFalcao)
-
-</div>
-
----
-
 ## `$ tail -f activity.log`
 
 <div align="center">
